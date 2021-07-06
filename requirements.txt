@@ -1,0 +1,9 @@
+django==2.1
+django-bootstrap4
+social-auth-app-django
+pillow
+easy-thumbnails
+django-cleanup
+django-simple-captcha
+djangorestframework
+django-cors-headers

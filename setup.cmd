@@ -1,0 +1,9 @@
+pipenv install django
+pipenv install django-bootstrap4
+pipenv install social-auth-app-django
+pipenv install pillow
+pipenv install easy-thumbnails
+pipenv install django-cleanup
+pipenv install django-simple-captcha
+pipenv install djangorestframework
+pipenv install django-cors-headers
