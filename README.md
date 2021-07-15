@@ -3,7 +3,7 @@ Cайт - электронная доска для объявлений на Dja
 
 ## Запустить
 ```bash
-git clone https://github.com/starboy-3/ChatServer.git
+git clone https://github.com/starboy-3/Ad-Desk.git
 cd ChatServer/
 pip install pipenv
 pipenv install -r requirements.txt
