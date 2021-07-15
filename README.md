@@ -7,6 +7,7 @@ git clone https://github.com/starboy-3/Ad-Desk.git
 cd ChatServer/
 pip install pipenv
 setup.cmd
+pipenv shell
 py manage.py makemigrations
 py manage.py makemigrations api
 py manage.py migrate
