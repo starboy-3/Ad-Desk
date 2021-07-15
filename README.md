@@ -6,7 +6,7 @@ Cайт - электронная доска для объявлений на Dja
 git clone https://github.com/starboy-3/Ad-Desk.git
 cd ChatServer/
 pip install pipenv
-pipenv install -r requirements.txt
+setup.cmd
 py manage.py makemigrations
 py manage.py makemigrations api
 py manage.py migrate
