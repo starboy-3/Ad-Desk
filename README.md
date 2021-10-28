@@ -1,7 +1,7 @@
 # Ad-Desk
-Cайт - электронная доска для объявлений на Django
+Website - online board for advertisements in Django
 
-## Запустить
+## Run
 ```bash
 git clone https://github.com/starboy-3/Ad-Desk.git
 cd ChatServer/
